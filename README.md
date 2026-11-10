@@ -129,7 +129,7 @@ print("\nPrediction for new student 1 (0 = Not Placed, 1 = Placed):", y_prednew1
 print("Prediction for new student 2 (0 = Not Placed, 1 = Placed):", y_prednew2[0])
 
 ```
-Output:
+## Output:
 <img width="1218" height="631" alt="image" src="https://github.com/user-attachments/assets/b3a4b64f-3b9c-482d-9f72-996687572201" />
 <img width="1042" height="720" alt="image" src="https://github.com/user-attachments/assets/edd20220-1d75-4201-973e-acf6e82c1d68" />
 <img width="1185" height="536" alt="image" src="https://github.com/user-attachments/assets/64a017e6-0053-45ce-874b-57b64415757f" />
